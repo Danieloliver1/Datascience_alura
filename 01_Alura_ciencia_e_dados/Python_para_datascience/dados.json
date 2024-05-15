@@ -1,0 +1,92 @@
+[
+  {
+    "curso": "Introdu\u00e7\u00e3o \u00e0 programa\u00e7\u00e3o",
+    "categoria": "Programa\u00e7\u00e3o",
+    "carga_horaria": "20 horas",
+    "concluintes": 100,
+    "data_inicio": "2022-01-01",
+    "data_conclusao": "2022-01-20",
+    "descricao": "Curso introdut\u00f3rio \u00e0 programa\u00e7\u00e3o com Python",
+    "preco": "99.90",
+    "instrutor": {
+      "nome": "Jo\u00e3o Silva",
+      "email": "joao.silva@emailaleatorio.com",
+      "telefone": "(11) 9999-9999"
+    }
+  },
+  {
+    "curso": "Excel para iniciantes",
+    "categoria": "Produtividade",
+    "carga_horaria": null,
+    "concluintes": null,
+    "data_inicio": null,
+    "data_conclusao": null,
+    "descricao": null,
+    "preco": null,
+    "instrutor": {
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@emailaleatorio.com",
+      "telefone": "(11) 8888-8888"
+    }
+  },
+  {
+    "curso": "Marketing digital para neg\u00f3cios",
+    "categoria": "Marketing",
+    "carga_horaria": "30 horas",
+    "concluintes": 75,
+    "data_inicio": "2022-03-01",
+    "data_conclusao": "2022-03-31",
+    "descricao": "Curso introdut\u00f3rio em marketing",
+    "preco": 89.9,
+    "instrutor": {
+      "nome": "Ana Santos",
+      "email": "ana.santos@emailaleatorio.com",
+      "telefone": "(11) 7777-7777"
+    }
+  },
+  {
+    "curso": "Intelig\u00eancia artificial",
+    "categoria": "Programa\u00e7\u00e3o",
+    "carga_horaria": "40 horas",
+    "concluintes": "",
+    "data_inicio": "2022-04-01",
+    "data_conclusao": "",
+    "descricao": "Curso avan\u00e7ado sobre intelig\u00eancia artificial com Python",
+    "preco": 129.9,
+    "instrutor": {
+      "nome": "",
+      "email": "contato@emailaleatorio.com",
+      "telefone": ""
+    }
+  },
+  {
+    "curso": "Ingl\u00eas para neg\u00f3cios",
+    "categoria": "Idiomas",
+    "carga_horaria": "20 horas",
+    "concluintes": 30,
+    "data_inicio": "",
+    "data_conclusao": "",
+    "descricao": "Curso de ingl\u00eas para neg\u00f3cios",
+    "preco": 69.9,
+    "instrutor": {
+      "nome": "John Smith",
+      "email": "",
+      "telefone": ""
+    }
+  },
+  {
+    "curso": "Introdu\u00e7\u00e3o \u00e0 programa\u00e7\u00e3o",
+    "categoria": "Programa\u00e7\u00e3o",
+    "carga_horaria": "20 horas",
+    "concluintes": 100,
+    "data_inicio": "2022-01-01",
+    "data_conclusao": "2022-01-20",
+    "descricao": "Curso introdut\u00f3rio \u00e0 programa\u00e7\u00e3o com Python",
+    "preco": "99.90",
+    "instrutor": {
+      "nome": "Jo\u00e3o Silva",
+      "email": "joao.silva@emailaleatorio.com",
+      "telefone": "(11) 9999-9999"
+    }
+  }
+]

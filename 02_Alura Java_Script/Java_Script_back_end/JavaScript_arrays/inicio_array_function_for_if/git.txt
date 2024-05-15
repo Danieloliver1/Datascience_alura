@@ -1,0 +1,15 @@
+-Criando um repositorio local 
+git init
+
+
+git status
+
+git remote add origin '''link do repositorio''''
+
+-Adicionando todos os arquivos
+git add .
+git status
+
+git commit -m "codigos var e convers"
+
+git push origin master
