@@ -1,0 +1,11 @@
+
+Dados do curso
+Iremos utilizar dados de uma empresa fictícia chamada Meteora, e os dados que vamos analisar estão disponíveis a partir de links. Se você baixou o notebook do curso e vai utilizá-lo, os links de acesso já estão disponíveis no notebook.
+
+No entanto, caso opte por não utilizar o notebook do curso, abaixo estão os links de dados em código:
+
+
+url_itens_pedidos = 'https://github.com/alura-cursos/SQL-python-integracao/raw/main/TABELAS/itens_pedidos.csv'
+url_pedidos = 'https://github.com/alura-cursos/SQL-python-integracao/raw/main/TABELAS/pedidos.csv'
+url_produto = 'https://github.com/alura-cursos/SQL-python-integracao/raw/main/TABELAS/produtos.csv'
+url_vendedores = 'https://github.com/alura-cursos/SQL-python-integracao/raw/main/TABELAS/vendedores.csv'
