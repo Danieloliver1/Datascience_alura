@@ -1,0 +1,21 @@
+
+
+Python 
+criando ambiente virtual
+1- Abrir um terminal no vccode powershell
+2- Set-ExecutionPolicicy Unrestricted -Force
+3-para criar a pasta onde vai ficar amazenado o ambiente virtual
+4- python -m venv "e o nome da pasta"
+5- para navegar na pasta 
+6-cd d:
+7-cd.\Storage\Desktop
+8-ls
+9-para ativar o ambiente virtual
+10- .\"nome da pasta"\Scripts\Activate.ps1
+11-se não funcionar abrir o comando powershell como adinisttrador só funciona se for administrador e digitar seguinte comando
+12- Set-ExecutionPolicy-Scope CurrentUser -ExecutionPolicy RemoteSigned
+13-pip list -> mostra as lista instalada no ambiente virtual
+14- para desativar ambiente virtual
+15- deactivate
+16 - upgrade ou instalador dos pacotes do python
+17 - python -m pip install --upgrade pip
