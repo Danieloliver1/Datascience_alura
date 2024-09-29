@@ -1,0 +1,42 @@
+
+
+Python 
+criando ambiente virtual
+1- Abrir um terminal no vccode powershell
+2- Set-ExecutionPolicicy Unrestricted -Force
+3-para criar a pasta onde vai ficar amazenado o ambiente virtual
+4- python -m venv "e o nome da pasta"
+5- para navegar na pasta 
+6-cd d:
+7-cd.\Storage\Desktop
+8-ls
+9-para ativar o ambiente virtual
+10- .\"nome da pasta"\Scripts\Activate.ps1
+ou 
+10.1 - myenv\Scripts\activate
+   
+11-se não funcionar abrir o comando powershell como adinisttrador só funciona se for administrador e digitar seguinte comando
+tem que abrir o terminal como administrador.
+12- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+ou 
+12.1- Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+OBS: para executar o ambiente virtual o caminho tem que ta antes da pasta e não dentro.
+
+13-pip list -> mostra as lista instalada no ambiente virtual
+14- para desativar ambiente virtual
+15- deactivate
+16 - upgrade ou instalador dos pacotes do python
+17 - python -m pip install --upgrade pip
+
+
+
+Para criar um ambiente virtual em Python, pode utilizar o módulo venv, que está incluído na biblioteca padrão do Python e é destinado a versões 3.3 ou posteriores:
+Abra o terminal ou prompt de comando do sistema operacional
+Navegue até o diretório do projeto
+Crie o ambiente virtual com o comando python -m venv nome_do_ambiente
+Ative o ambiente virtual 
+O comando para ativar o ambiente virtual varia de acordo com o sistema operacional:
+No Windows: meu_ambiente_virtual\Scripts\activate
+No macOS e Linux: source meu_ambiente_virtual/bin/activate 
+O nome do ambiente virtual atual será exibido no prompt do terminal, indicando que o ambiente foi ativado com sucesso. 

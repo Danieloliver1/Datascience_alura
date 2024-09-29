@@ -5,3 +5,7 @@ _____________________________________________________
 versao_02
 task - atualizando nova trilha CD4ML_Continuous_Delivery_for_Machine_Learning 
 _____________________________________________________
+
+versao_03
+task - finalizando nova trilha CD4ML_Continuous_Delivery_for_Machine_Learning 
+_____________________________________________________

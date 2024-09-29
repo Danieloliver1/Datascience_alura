@@ -1,0 +1,80 @@
+pip install flask 
+pip install googletrans 
+pip install textblob 
+
+pip install flask-basicauth
+Autenticação para criar um usuario e senha para proteger aplicação
+
+
+import pickle
+pickle é uma ferramento para amazenar o modelo do aprendizado de maquina porem para versão do python 3.17 igual e menor precisa instalar com pip install pickle se não der certo colocar a versão como pip install pickle5 para o python da versão acima do 3.18 não precisa instalar pois ja vem imbutido na instalação do python.
+
+O Postman é um programa de fazer teste de versões de request de aplicações web.
+
+O Postman é uma ferramenta popular usada para testar APIs. Ele permite que você envie diferentes tipos de requisições HTTP (como GET, POST, PUT, DELETE) e visualize as respostas de forma fácil. Com o Postman, você pode:
+
+Criar e organizar coleções de requisições.
+Adicionar parâmetros, cabeçalhos e corpo de requisição.
+Testar e debugar APIs.
+Automatizar testes com scripts.
+Documentar suas APIs.
+É uma ferramenta muito útil para desenvolvedores e testers ao trabalhar com aplicações web!
+
+
+para baixar o Postman
+https://dl.pstmn.io/download/latest/win64
+
+http://127.0.0.1:5000/sentimento/Python%20%C3%A9%20otimo%20para%20criar%20api
+
+
+
+qualquer erro há possibilidade por versões de bibliotecas.
+
+
+para quardar todos os arquivos de pedencia usando o comando python digitar os sequintes comandos
+
+1 - passo 
+pip freeze > requirements.txt 
+
+
+2- passo: para instalar todas dependencies que ta no arquivo requirements.txt
+pip install -r requirements.txt
+
+
+Package         Version
+--------------- ------------
+anyio           4.6.0
+blinker         1.8.2
+certifi         2024.8.30
+click           8.1.7
+colorama        0.4.6
+Flask           3.0.3
+Flask-BasicAuth 0.2.0
+googletrans-py  4.0.0
+h11             0.14.0
+h2              4.1.0
+hpack           4.0.0
+httpcore        1.0.5
+httpx           0.27.2
+hyperframe      6.0.1
+idna            3.10
+itsdangerous    2.2.0
+Jinja2          3.1.4
+joblib          1.4.2
+MarkupSafe      2.1.5
+nltk            3.9.1
+numpy           2.1.1
+pandas          2.2.3
+pip             24.2
+python-dateutil 2.9.0.post0
+pytz            2024.2
+regex           2024.9.11
+scikit-learn    1.5.2
+scipy           1.14.1
+six             1.16.0
+sniffio         1.3.1
+textblob        0.18.0.post0
+threadpoolctl   3.5.0
+tqdm            4.66.5
+tzdata          2024.2
+Werkzeug        3.0.4
