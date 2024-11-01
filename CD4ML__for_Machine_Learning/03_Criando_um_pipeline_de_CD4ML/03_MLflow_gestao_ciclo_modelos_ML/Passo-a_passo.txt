@@ -1,0 +1,21 @@
+Primeiro criar um repositório existe varios tipos de templates vamos usar o coockicutter
+
+instalar 
+!pip install cookiecutter
+
+execultar 
+cookiecutter https://github.com/jcalvesoliveira/cookiecutter-ds-basic.git
+
+depois instalar 
+!pip install mlflow
+
+execultar 
+mlflow ui 
+- "dentro da pasta que quer criar modelo."
+
+
+instalar se não tive o jupyter notebook 
+- pip install jupyterlab
+executar 
+- jupyter-lab
+

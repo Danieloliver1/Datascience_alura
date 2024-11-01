@@ -1,0 +1,7 @@
+OBS: algumas aplicações não pode funcionar devido o grande volume de pastas e diretorios por isso é certo fazer em uma pasta dividual 
+cada aplicação para funcionar corretamente o ambiente virtual o colab, API's web e Framework e outros, cada pasta que ta neste repositório
+tem como objetivo de deixar organizado cada aplicação e armazenado para o uso.
+
+
+
+foi excluido a pasta venv do ambiente virtual, é ós instalar de novo e as dependencias o motivo da exclusão é para poder a pasta ficar masi rapida para baixar.
