@@ -1,11 +1,16 @@
-versao_01
-task - atualizando nova trilha Estatística_com_Python
+versao_04
+task - Adicionando novos arquivos regressão voltada para series temporais 
+_____________________________________________________
+
+versao_03
+task - finalizando nova trilha CD4ML_Continuous_Delivery_for_Machine_Learning 
 _____________________________________________________
 
 versao_02
 task - atualizando nova trilha CD4ML_Continuous_Delivery_for_Machine_Learning 
 _____________________________________________________
 
-versao_03
-task - finalizando nova trilha CD4ML_Continuous_Delivery_for_Machine_Learning 
+versao_01
+task - atualizando nova trilha Estatística_com_Python
 _____________________________________________________
+
