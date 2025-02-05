@@ -7,7 +7,7 @@ from prophet.plot import plot_plotly
 
 def load_model():
     # with open(r'modelo_o3_prophet.json', 'r') as file_in:
-    with open('modelo_O3_prophet.json', 'r') as file_in:
+    with open('modelo_o3_prophet.json', 'r') as file_in:
         modelo = model_from_json(json.load(file_in))
         return modelo
 
