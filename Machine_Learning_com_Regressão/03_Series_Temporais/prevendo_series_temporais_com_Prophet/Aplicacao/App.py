@@ -6,9 +6,8 @@ from prophet.plot import plot_plotly
 
 
 def load_model():
-    #with open(r'modelo_o3_prophet.json', 'r') as file_in:
-    with open(r'https://raw.githubusercontent.com/Danieloliver1/Datascience_alura/refs/heads/main/Machine_Learning_com_Regress%C3%A3o/03_Series_Temporais/prevendo_series_temporais_com_Prophet/Aplicacao/modelo_o3_prophet.json', 'r') as file_in:
-       
+    # with open(r'modelo_o3_prophet.json', 'r') as file_in:
+    with open(r'/modelo_o3_prophet.json', 'r') as file_in:
         modelo = model_from_json(json.load(file_in))
         return modelo
 
